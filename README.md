@@ -3,6 +3,8 @@ Dutch windmills and machine learning: https://cloud.google.com/blog/big-data/201
 
 Avian Carriers RFC 1149: https://tools.ietf.org/html/rfc1149
 
+Chope Protocol: https://www.scribd.com/document/52039547/Chope-Reservation-and-Access-Protocol
+
 GCP for Data Centre Professionals: https://cloud.google.com/docs/compare/data-centers/
 
 GCP for OpenStack users: https://cloud.google.com/docs/compare/openstack/
