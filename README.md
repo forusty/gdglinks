@@ -9,4 +9,8 @@ GCP for AWS Users (series): https://cloud.google.com/docs/compare/aws/ and the n
 
 Transferring Big Data Sets to GCP: https://cloud.google.com/solutions/transferring-big-data-sets-to-gcp
 
+Icons for Diagrams: https://cloud.google.com/icons/
 
+Landing Page for Solutions: https://cloud.google.com/docs/tutorials
+
+Community Tutorials: https://cloud.google.com/community/tutorials/
