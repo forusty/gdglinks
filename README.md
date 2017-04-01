@@ -14,3 +14,11 @@ Icons for Diagrams: https://cloud.google.com/icons/
 Landing Page for Solutions: https://cloud.google.com/docs/tutorials
 
 Community Tutorials: https://cloud.google.com/community/tutorials/
+
+# Book Recommendations
+
+Deep Learning Book: http://www.deeplearningbook.org/
+
+Site Reliability Engineering: https://landing.google.com/sre/book.html
+
+Doing Data Science: http://shop.oreilly.com/product/0636920028529.do
