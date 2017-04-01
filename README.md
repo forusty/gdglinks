@@ -18,9 +18,11 @@ GCP for AWS Users (series): https://cloud.google.com/docs/compare/aws/ and the n
 
 ## Back to basics
 
+Uploading loads of data: https://cloud.google.com/solutions/transferring-big-data-sets-to-gcp
+
 The good ol' worker pattern: https://cloud.google.com/solutions/using-cloud-pub-sub-long-running-tasks
 
-Uploading loads of data: https://cloud.google.com/solutions/transferring-big-data-sets-to-gcp
+HA vs. DR: https://cloud.google.com/solutions/designing-a-disaster-recovery-plan
 
 ## Tools and miscellaneous
 
